@@ -13,6 +13,7 @@
 		4A9083A02B445772008CB46B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A90839E2B445772008CB46B /* Main.storyboard */; };
 		4A9083A22B445773008CB46B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A9083A12B445773008CB46B /* Assets.xcassets */; };
 		4A9083A52B445773008CB46B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A9083A32B445773008CB46B /* LaunchScreen.storyboard */; };
+		4A9083AD2B445BF9008CB46B /* MyView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A9083AC2B445BF9008CB46B /* MyView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4A9083A12B445773008CB46B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4A9083A42B445773008CB46B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4A9083A62B445773008CB46B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A9083AC2B445BF9008CB46B /* MyView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4A9083A12B445773008CB46B /* Assets.xcassets */,
 				4A9083A32B445773008CB46B /* LaunchScreen.storyboard */,
 				4A9083A62B445773008CB46B /* Info.plist */,
+				4A9083AC2B445BF9008CB46B /* MyView.xib */,
 			);
 			path = DemoApp;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A9083AD2B445BF9008CB46B /* MyView.xib in Resources */,
 				4A9083A52B445773008CB46B /* LaunchScreen.storyboard in Resources */,
 				4A9083A22B445773008CB46B /* Assets.xcassets in Resources */,
 				4A9083A02B445772008CB46B /* Main.storyboard in Resources */,
